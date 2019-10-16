@@ -11,6 +11,7 @@ my first repository create in 9-17
 - git add .     //将工作区中所有的文件提交到暂存区
 - git status    //查看工作区的状态
 - git checkout -- 文件路径      //撤销文件到最近一次提交（跟编辑器中的ctrl z 类似）
+- git reset head 文件目录       //将文件从暂存区踢出
 
 ## 将文件添加到暂存区
 
@@ -21,3 +22,5 @@ my first repository create in 9-17
 - test2
 
 - test3
+
+- asfasfasfdasdfadfaf
