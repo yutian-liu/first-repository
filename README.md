@@ -12,6 +12,8 @@ my first repository create in 9-17
 - git status    //查看工作区的状态
 - git checkout -- 文件路径      //撤销文件到最近一次提交（跟编辑器中的ctrl z 类似）
 - git reset head 文件目录       //将文件从暂存区踢出
+- git log       //查看仓库中commit的版本
+- git reflog        //映射查看仓库中commit的版本（更好看点儿）
 
 ## 将文件添加到暂存区
 
